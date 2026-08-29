@@ -2,7 +2,6 @@
 A C++ based Password Strength Checker that analyzes passwords based on length, uppercase letters, lowercase letters, numbers, and special characters.
 Password Strength Checker 🔐
 
-A C++ based Password Strength Checker that analyzes the security level of a password based on multiple security requirements.
 
 Features
 
